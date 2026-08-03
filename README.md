@@ -8,6 +8,4 @@ Operating Systems and System Programming (OSSP) course repository.
 - 2520030608
 
 This repository contains:
-- Practical Programs
-- Skill Activities
 - ForgeOS Project
